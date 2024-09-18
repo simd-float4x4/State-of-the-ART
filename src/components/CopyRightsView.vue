@@ -2,7 +2,7 @@
     <h1 class="section-title">COPYRIGHTS</h1>
 
     <div class="ml-16">
-        <p>アイコン画像：<br>OKUMONO https://sozaino.site</p>
+        <p>アイコン画像：<br>ぴよたそ https://hiyokoyarou.com/</p>
         <br>
         <p>ヘッダー画像：<br>OKUMONO https://sozaino.site</p>
         <br>
