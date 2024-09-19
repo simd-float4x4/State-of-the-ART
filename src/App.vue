@@ -80,8 +80,8 @@ export default {
   }
 
   * {
-    margin: 0;
-    padding: 0;
+    margin: var(--zero);
+    padding: var(--zero);
     background-color: var(--main-bg-color);
     color: var(--main-color);
   }
